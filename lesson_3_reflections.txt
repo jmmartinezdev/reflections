@@ -30,4 +30,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When I want to make changes that are not going directly into the master branch until
+	they are completely done or approved by anyone else. Doing your changes on master is
+	easier, but working on other branch will separate your changes from other changes
+	made to master.
